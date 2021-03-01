@@ -3,20 +3,13 @@
 </h1>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-
-<p align="center">
  <img src="assets/Tela.png" alt="PRs welcome!" />
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src="assets/logo.svg" width="100%">
+  <img alt="dev.finances" src="assets/logo.svg" width="50%">
 </p>
 
 ## 🚀 Tecnologias
@@ -26,6 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
+- LocalStorage
 
 ## 💻 Projeto
 
